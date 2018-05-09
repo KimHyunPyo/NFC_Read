@@ -2,14 +2,14 @@
 
 ## Android에서 nfc태그 접근시 실행 어플리케이션 지정하기
 
-## 1.manifest구성
+# 1.manifest구성
 
- # <intent-filter>태그 하위 요소로
- # <dcatata android:mimeType="appliion/" /> 삽입
+  "<intent-filter>" 태그 하위 요소로
+  "<dcatata android:mimeType="appliion/" />" 삽입
  
  
  
-## 2.nfc Record를 이용하여 application정보 tag에 입력
+# 2.nfc Record를 이용하여 application정보 tag에 입력
 
 TNF_MIME_MEDIA
 You can create a TNF_MIME_MEDIA NDEF record in the following ways:
