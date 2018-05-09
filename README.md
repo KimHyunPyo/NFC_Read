@@ -4,9 +4,9 @@
 
 # 1.manifest구성
 
-  "<intent-filter>" 태그 하위 요소로
-  "<dcatata android:mimeType="appliion/" />" 삽입
- 
+  '''(xml) <intent-filter> 태그 하위 요소로
+  <dcatata android:mimeType="appliion/패키지이름" /> 삽입
+''' 
  
  
 # 2.nfc Record를 이용하여 application정보 tag에 입력
