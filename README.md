@@ -4,7 +4,7 @@
 
 # 1.manifest구성
 
-  '''xml <intent-filter> 태그 하위 요소로
+  '''html(xml) <intent-filter> 태그 하위 요소로
   <dcatata android:mimeType="appliion/패키지이름" /> 삽입
 ''' 
  
